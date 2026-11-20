@@ -44,6 +44,8 @@
   - Dhātu 1735 शृधु प्रहसने: the Dhātupāṭha data itself records both प्रहसने and प्रसहने.
   - The other dhātu-name differences from the Dhātupāṭha data are notation (dental न् and छ् for the nasal and च्छ in the data) or recension variants that the Kaumudī's own forms support (बहि: बंहते; ऊर्ज, चूर्ण, घूर्ण, बिल, वल्ह, क्षिवु, रघि, दण्डनिपातने). They are the Kaumudī's readings and stay.
 - **D3.** Readings reported during the encoding of SK 1680–1690: शूर्पाभ्यां (1683) and चात्वारिंशत्कः (1687) emended; त्रिंशत्कः (1689) emended from the typed त्रिंशतिकः, which has no derivation (कन् takes no इट् here; Kāśikā त्रिंशत्कः), the typed reading being kept on record here; आर्धकौडबिकम् (1685) kept, since कुडब/कुडव is a ब/व spelling variant and the Bālamanoramā spells it with ब as well.
+- **D4.** SK 1409 (7.3.18): the text was emended to भद्रपादः. Both typed witnesses (this text and eBharatiSampat 524) print भाद्रपादः. That reading is rejected for three reasons. First, जे प्रोष्ठपदानाम् gives vṛddhi to the second member only (प्रोष्ठपादः), and vṛddhi of both members needs 7.3.19 ff. Second, the Kāśikā (भद्रपाद इति) reads भद्रपादः. Third, so does the Pāṇinīyamitākṣarā (भद्रपदासु जातो भद्रपादः).
+- **D5.** SK 968 (6.3.10): अभ्याहितपशुः is kept. Both SK witnesses and the Pāṇinīyamitākṣarā (अभ्याहिते पशुः अभ्याहितपशुः) read it, and it is a sound counter-example to कारनाम्नि. The Kāśikā and Vasu read अभ्यर्हितपशुः, which is recorded here as a variant.
 
 ## Upstream issues (drdhaval2785/siddhantakaumudi, read 2026-11-20)
 - **I1.** #74 SK 325 दादेर्धातोर्धः → दादेर्धातोर्घः (8.2.32 substitutes घ). Fixed.
