@@ -47,6 +47,7 @@
 - **D4.** SK 1409 (7.3.18): the text was emended to भद्रपादः. Both typed witnesses (this text and eBharatiSampat 524) print भाद्रपादः. That reading is rejected for three reasons. First, जे प्रोष्ठपदानाम् gives vṛddhi to the second member only (प्रोष्ठपादः), and vṛddhi of both members needs 7.3.19 ff. Second, the Kāśikā (भद्रपाद इति) reads भद्रपादः. Third, so does the Pāṇinīyamitākṣarā (भद्रपदासु जातो भद्रपादः).
 - **D5.** SK 968 (6.3.10): अभ्याहितपशुः is kept. Both SK witnesses and the Pāṇinīyamitākṣarā (अभ्याहिते पशुः अभ्याहितपशुः) read it, and it is a sound counter-example to कारनाम्नि. The Kāśikā and Vasu read अभ्यर्हितपशुः, which is recorded here as a variant.
 - **D6.** SK 1863 (5.2.63): emended पथिकः → पथकः. Both typed SK witnesses and the Pāṇinīyamitākṣarā print पथिकः, but वुन् gives पथकः (टिलोप 6.4.144); पथिकः is the ष्कन् form of 5.1.76. The Bālamanoramā's pratīka on this passage (पथक इति । आकादेशे नस्तद्धिते इति टिलोपः) shows the reading its author had, and the Kāśikā agrees.
+- **D7.** SK 3423 (3.4.7 context, लोडर्थे लुङ्): emended तेभ्योकरं → तेभ्योऽकरं in the text and its accented copy. Both typed witnesses lack the avagraha, but अकरम् is the luṅ with the a-augment, so the sandhi needs it, and the same mantra is printed with it under SK 3406. Treated as an orthographic lapse of the print, not a variant.
 
 ## Upstream issues (drdhaval2785/siddhantakaumudi, read 2026-11-20)
 - **I1.** #74 SK 325 दादेर्धातोर्धः → दादेर्धातोर्घः (8.2.32 substitutes घ). Fixed.
