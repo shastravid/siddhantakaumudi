@@ -61,6 +61,7 @@
 - **D18.** SK 2887 (आसुयुवपिरपिलपित्रपिचमश्च): kept चाम्यम्, though the Kāśikā on 3.1.126 reads आचाम्यम् and 7.3.34 with the vārttika अनाचमिकमिवमीनाम् allows vṛddhi only to आङ् + चम्. This text, ashtadhyayi.com and eBharatiSampat 524 all read चाम्यम्, so the Kaumudī's own reading stands; the Kāśikā reading is noted here.
 - **D19.** SK 3562 (अमो मश्): emended वंधीं वृत्रम् → वधीं वृत्रम् (with its accented repetition). This text and ashtadhyayi.com read वंधीं; eBharatiSampat 524 lacks the passage. The quotation is Ṛgveda 1.165.8 वधीम्, the luṅ of हन्/वध with इट्, as the Kaumudī's own अवधिषमिति प्राप्ते confirms; the Kāśikā on 7.1.40 reads वधीं वृत्रम्.
 - **D20.** SK 2913 (कर्मण्यण्, vārttika ईक्षिक्षमिभ्यां च): kept बहुक्षामा. This text, ashtadhyayi.com and eBharatiSampat 524 all read it. The Mahābhāṣya (कल्याणक्षमा) and the Kāśikā (बहुक्षमः, बहुक्षमा) have no vṛddhi, and 7.3.34 नोदात्तोपदेशस्य मान्तस्यानाचमेः would withhold it from क्षम् in any case; the grammatical form is बहुक्षमा. As in D18, the printed Kaumudī reading stands and the correct form is recorded here.
+- **D21.** SK 3608 (प्रणवष्टेः): emended जिवन्तो३म् → जिन्वतो३म् (with its accented repetition). This text and ashtadhyayi.com read जिवन्तो३म्; eBharatiSampat 524 lacks the passage. The quotation is Ṛgveda 8.44.16 जिन्वति (जिवि, इदित्, with नुम्), and the Kāśikā on 8.2.89 reads जिन्वतो३म्.
 
 ## Upstream issues (drdhaval2785/siddhantakaumudi, read 2026-11-20)
 - **I1.** #74 SK 325 दादेर्धातोर्धः → दादेर्धातोर्घः (8.2.32 substitutes घ). Fixed.
