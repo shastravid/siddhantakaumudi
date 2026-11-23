@@ -63,6 +63,7 @@
 - **D20.** SK 2913 (कर्मण्यण्, vārttika ईक्षिक्षमिभ्यां च): kept बहुक्षामा. This text, ashtadhyayi.com and eBharatiSampat 524 all read it. The Mahābhāṣya (कल्याणक्षमा) and the Kāśikā (बहुक्षमः, बहुक्षमा) have no vṛddhi, and 7.3.34 नोदात्तोपदेशस्य मान्तस्यानाचमेः would withhold it from क्षम् in any case; the grammatical form is बहुक्षमा. As in D18, the printed Kaumudī reading stands and the correct form is recorded here.
 - **D21.** SK 3608 (प्रणवष्टेः): emended जिवन्तो३म् → जिन्वतो३म् (with its accented repetition). This text and ashtadhyayi.com read जिवन्तो३म्; eBharatiSampat 524 lacks the passage. The quotation is Ṛgveda 8.44.16 जिन्वति (जिवि, इदित्, with नुम्), and the Kāśikā on 8.2.89 reads जिन्वतो३म्.
 - **D22.** SK 3120 (त्रसिगृधिधृषिक्षिपेः क्नुः): kept क्षिप्नुः. This text, ashtadhyayi.com and eBharatiSampat 524 all read it. The Kāśikā on 3.2.140 reads क्षिप्णुः, which 8.4.2 अट्कुप्वाङ्नुम्व्यवायेऽपि requires (ष् of क्ष्, then इ and प् intervening); क्षिप्नु is not in the क्षुभ्नादि list (8.4.39), which has तृप्नु only. As in D18 and D20, the printed Kaumudī reading stands and क्षिप्णुः is recorded as the grammatical form.
+- **D23.** SK 3264 (सङ्घोद्घौ गणप्रशंसयोः): emended इत्युद्धः → इत्युद्घः. This text and ashtadhyayi.com read उद्धः; eBharatiSampat 524 is garbled here. The word taught by the sūtra is उद्घ (घत्व by nipātana), and the Kāśikā on 3.3.86 reads उद्घो मनुष्याणाम्.
 
 ## Upstream issues (drdhaval2785/siddhantakaumudi, read 2026-11-20)
 - **I1.** #74 SK 325 दादेर्धातोर्धः → दादेर्धातोर्घः (8.2.32 substitutes घ). Fixed.
