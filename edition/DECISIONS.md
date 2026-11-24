@@ -66,6 +66,7 @@
 - **D23.** SK 3264 (सङ्घोद्घौ गणप्रशंसयोः): emended इत्युद्धः → इत्युद्घः. This text and ashtadhyayi.com read उद्धः; eBharatiSampat 524 is garbled here. The word taught by the sūtra is उद्घ (घत्व by nipātana), and the Kāśikā on 3.3.86 reads उद्घो मनुष्याणाम्.
 - **D24.** Uṇādi 1.113 (स्थाचतिमृजेः…): emended वालच् → वालञ् in the sūtra (आलज्वालञालीयचः) and the gloss, and चत्वालः → चात्वालः. This text and ashtadhyayi.com read वालच्/चत्वालः. The 1911 print reads वालञ् and चात्वालः (eBharatiSampat 524 confirms चात्वालः; its OCR of the affix is unclear). चात्वाल needs a ñit affix for vṛddhi (7.2.116); the Medinī has चात्वालो यज्ञकुण्डे.
 - **D25.** Uṇādi 1.128: emended the sūtra दृणातेर्दृग् ह्रस्वश्च → दृणातेः षुग्घ्रस्वश्च. This text and ashtadhyayi.com read दृग्; eBharatiSampat 524 lacks the passage. The 1911 print reads षुग् (OCR पुग्), and only षुक् yields the example दृषत्; compare 1.135 भियः षुक् ह्रस्वश्च.
+- **D26.** Uṇādi 1.152 (शेवयह्व…): emended यान्त्यनेन वह्वः → यान्त्यनेन यह्वः. This text and ashtadhyayi.com read वह्वः; eBharatiSampat 524 is garbled here (पहः). The sūtra itself names यह्व, which the gloss derives from या with ह्रस्व and हुक्; the Prauḍhamanoramā discusses यह्वशब्द.
 
 ## Upstream issues (drdhaval2785/siddhantakaumudi, read 2026-11-20)
 - **I1.** #74 SK 325 दादेर्धातोर्धः → दादेर्धातोर्घः (8.2.32 substitutes घ). Fixed.
