@@ -76,6 +76,8 @@
 - **D33.** Uṇādi 3.85 (ह्रियः कुक् रश्च लो वा): emended ह्राकुः → ह्लीकुः. This text and ashtadhyayi.com read ह्राकुः, which the sūtra cannot yield; eBharatiSampat 524 is defaced at the first form (हाकुः) but keeps ह्रीकुः second, and the 1911 Trichinopoly print and Ujjvaladatta give both the र and the ल form. The order of the base print is kept.
 - **D34.** Uṇādi 3.86: emended the sūtra हसिमृग्रिणवाऽमि… → हसिमृग्रिण्वामि…. This text and ashtadhyayi.com carry an avagraha and a stray vowel; eBharatiSampat 524 shows ग्रिणवामि (OCR). The sūtra joins ग्रि + इण् + वा + अमि, and the 1911 Trichinopoly print reads ग्रिण्वामि.
 - **D35.** Uṇādi 3.83: kept the sūtra आणको लुधुशिघिधाञ्भ्यः. The 1911 Trichinopoly print reads लूशिङ्घिधाञ्भ्यः and the vṛtti derives लवाणकम्, धवाणकः, शिङ्घाणकः; but this text, ashtadhyayi.com and eBharatiSampat 524 (लुधुशि…, OCR) agree, so the printed reading stands and the variant is recorded.
+- **D36.** Uṇādi 3.112 (खलतिः): emended खलतेः सलोपः → स्खलतेः सलोपः. This text and ashtadhyayi.com read खलतेः; eBharatiSampat 524 is garbled (नलते:). The note सलोपः only makes sense of स्खल्, and the 1911 Trichinopoly print and Ujjvaladatta (स्खल सञ्चलने) read स्खलतेः.
+- **D37.** Uṇādi 3.124: emended the sūtra रुषेर्निलुष् च → रुषेर्निल्लुष् च. This text and ashtadhyayi.com read निलुष्; eBharatiSampat 524 is garbled (रुषेनिष् च). The vṛtti glosses नित् and लुषादेश, which join as निल्लुष् (8.4.60); the 1911 Trichinopoly print reads निल्लुष्.
 
 ## Upstream issues (drdhaval2785/siddhantakaumudi, read 2026-11-20)
 - **I1.** #74 SK 325 दादेर्धातोर्धः → दादेर्धातोर्घः (8.2.32 substitutes घ). Fixed.
