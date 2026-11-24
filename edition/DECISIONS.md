@@ -73,6 +73,9 @@
 - **D30.** Uṇādi 3.62: kept कक्षं नक्षत्रम्. The Bālamanoramā print of 1911 reads कक्षम् अरण्यम्, but this text, ashtadhyayi.com and eBharatiSampat 524 agree on नक्षत्रम्; following D18, the printed Kaumudī reading stands and the variant is recorded here.
 - **D31.** Uṇādi 3.68: kept the sūtra उन्दिगुथिकुषिभ्यश्च. The Bālamanoramā print of 1911 and Ujjvaladatta (गुध रोषे) read गुधि, but this text, ashtadhyayi.com and eBharatiSampat 524 agree on गुथि; the example गुत्सः arises either way (खरि च). The printed reading stands; the variant is recorded.
 - **D32.** Uṇādi 3.77: kept the sūtra कटिकुषिभ्यां काकुः and कटाकुः. The Bālamanoramā print of 1911 and Ujjvaladatta (कठ कृच्छ्रजीवने) read कठि and कठाकुः, but this text, ashtadhyayi.com and eBharatiSampat 524 agree on कटि/कटाकुः, and कट् is itself a root. The printed reading stands; the variant is recorded.
+- **D33.** Uṇādi 3.85 (ह्रियः कुक् रश्च लो वा): emended ह्राकुः → ह्लीकुः. This text and ashtadhyayi.com read ह्राकुः, which the sūtra cannot yield; eBharatiSampat 524 is defaced at the first form (हाकुः) but keeps ह्रीकुः second, and the 1911 Trichinopoly print and Ujjvaladatta give both the र and the ल form. The order of the base print is kept.
+- **D34.** Uṇādi 3.86: emended the sūtra हसिमृग्रिणवाऽमि… → हसिमृग्रिण्वामि…. This text and ashtadhyayi.com carry an avagraha and a stray vowel; eBharatiSampat 524 shows ग्रिणवामि (OCR). The sūtra joins ग्रि + इण् + वा + अमि, and the 1911 Trichinopoly print reads ग्रिण्वामि.
+- **D35.** Uṇādi 3.83: kept the sūtra आणको लुधुशिघिधाञ्भ्यः. The 1911 Trichinopoly print reads लूशिङ्घिधाञ्भ्यः and the vṛtti derives लवाणकम्, धवाणकः, शिङ्घाणकः; but this text, ashtadhyayi.com and eBharatiSampat 524 (लुधुशि…, OCR) agree, so the printed reading stands and the variant is recorded.
 
 ## Upstream issues (drdhaval2785/siddhantakaumudi, read 2026-11-20)
 - **I1.** #74 SK 325 दादेर्धातोर्धः → दादेर्धातोर्घः (8.2.32 substitutes घ). Fixed.
