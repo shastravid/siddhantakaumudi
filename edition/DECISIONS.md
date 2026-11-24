@@ -70,6 +70,9 @@
 - **D27.** Uṇādi 2.21 (कृतेश्छः क्रू च): emended कृच्छ्र्म् → कृच्छ्रम्. This text and ashtadhyayi.com carry a stray virāma; eBharatiSampat 524 is garbled here (कृळूम). The gloss derives कृच्छ्र from कृत् + रक् with छ, and कृच्छ्रम् is the standard form (Amarakośa स्यात्कष्टं कृच्छ्रमाभीलम्).
 - **D28.** Uṇādi 2.95 (नप्तृनेष्टृ…): emended नयतेः पुग्गुणश्च → नयतेः षुग्गुणश्च. This text, ashtadhyayi.com and the eBharatiSampat 524 OCR read पुग्; the OCR regularly takes ष for प (compare D25). Only षुक् yields the example नेष्टा (ने + ष् + तृ with ष्टुत्व); पुक् would give *नेप्ता.
 - **D29.** Uṇādi 3.1 (छित्वरछत्वर…): emended कट्वरं व्यजनम् → कट्वरं व्यञ्जनम्. This text, ashtadhyayi.com and the eBharatiSampat 524 OCR read व्यजनम् (fan); the 1911 Nirnayasagar print with the Bālamanoramā reads व्यञ्जनम्, and the Medinī cited there defines कट्वर as तक्र (buttermilk), a condiment, not a fan.
+- **D30.** Uṇādi 3.62: kept कक्षं नक्षत्रम्. The Bālamanoramā print of 1911 reads कक्षम् अरण्यम्, but this text, ashtadhyayi.com and eBharatiSampat 524 agree on नक्षत्रम्; following D18, the printed Kaumudī reading stands and the variant is recorded here.
+- **D31.** Uṇādi 3.68: kept the sūtra उन्दिगुथिकुषिभ्यश्च. The Bālamanoramā print of 1911 and Ujjvaladatta (गुध रोषे) read गुधि, but this text, ashtadhyayi.com and eBharatiSampat 524 agree on गुथि; the example गुत्सः arises either way (खरि च). The printed reading stands; the variant is recorded.
+- **D32.** Uṇādi 3.77: kept the sūtra कटिकुषिभ्यां काकुः and कटाकुः. The Bālamanoramā print of 1911 and Ujjvaladatta (कठ कृच्छ्रजीवने) read कठि and कठाकुः, but this text, ashtadhyayi.com and eBharatiSampat 524 agree on कटि/कटाकुः, and कट् is itself a root. The printed reading stands; the variant is recorded.
 
 ## Upstream issues (drdhaval2785/siddhantakaumudi, read 2026-11-20)
 - **I1.** #74 SK 325 दादेर्धातोर्धः → दादेर्धातोर्घः (8.2.32 substitutes घ). Fixed.
