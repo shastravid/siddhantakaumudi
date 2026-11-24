@@ -68,6 +68,7 @@
 - **D25.** Uṇādi 1.128: emended the sūtra दृणातेर्दृग् ह्रस्वश्च → दृणातेः षुग्घ्रस्वश्च. This text and ashtadhyayi.com read दृग्; eBharatiSampat 524 lacks the passage. The 1911 print reads षुग् (OCR पुग्), and only षुक् yields the example दृषत्; compare 1.135 भियः षुक् ह्रस्वश्च.
 - **D26.** Uṇādi 1.152 (शेवयह्व…): emended यान्त्यनेन वह्वः → यान्त्यनेन यह्वः. This text and ashtadhyayi.com read वह्वः; eBharatiSampat 524 is garbled here (पहः). The sūtra itself names यह्व, which the gloss derives from या with ह्रस्व and हुक्; the Prauḍhamanoramā discusses यह्वशब्द.
 - **D27.** Uṇādi 2.21 (कृतेश्छः क्रू च): emended कृच्छ्र्म् → कृच्छ्रम्. This text and ashtadhyayi.com carry a stray virāma; eBharatiSampat 524 is garbled here (कृळूम). The gloss derives कृच्छ्र from कृत् + रक् with छ, and कृच्छ्रम् is the standard form (Amarakośa स्यात्कष्टं कृच्छ्रमाभीलम्).
+- **D28.** Uṇādi 2.95 (नप्तृनेष्टृ…): emended नयतेः पुग्गुणश्च → नयतेः षुग्गुणश्च. This text, ashtadhyayi.com and the eBharatiSampat 524 OCR read पुग्; the OCR regularly takes ष for प (compare D25). Only षुक् yields the example नेष्टा (ने + ष् + तृ with ष्टुत्व); पुक् would give *नेप्ता.
 
 ## Upstream issues (drdhaval2785/siddhantakaumudi, read 2026-11-20)
 - **I1.** #74 SK 325 दादेर्धातोर्धः → दादेर्धातोर्घः (8.2.32 substitutes घ). Fixed.
