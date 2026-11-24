@@ -79,6 +79,8 @@
 - **D36.** Uṇādi 3.112 (खलतिः): emended खलतेः सलोपः → स्खलतेः सलोपः. This text and ashtadhyayi.com read खलतेः; eBharatiSampat 524 is garbled (नलते:). The note सलोपः only makes sense of स्खल्, and the 1911 Trichinopoly print and Ujjvaladatta (स्खल सञ्चलने) read स्खलतेः.
 - **D37.** Uṇādi 3.124: emended the sūtra रुषेर्निलुष् च → रुषेर्निल्लुष् च. This text and ashtadhyayi.com read निलुष्; eBharatiSampat 524 is garbled (रुषेनिष् च). The vṛtti glosses नित् and लुषादेश, which join as निल्लुष् (8.4.60); the 1911 Trichinopoly print reads निल्लुष्.
 - **D38.** Uṇādi 5.9: emended the sūtra वुञ्लुठि… → वृञ्लुटि…. This text and ashtadhyayi.com read वुञ्; eBharatiSampat 524 is garbled at that word (घुज) but reads लुटि. The vṛtti's व्रियन्ते and लुट्यन्ते fix both roots, and the 1911 Trichinopoly print and Ujjvaladatta read वृञ्लुटि….
+- **D39.** Uṇādi 5.41 (कृदरादयश्च): emended सृदरः सर्पः → हृदरः सर्पः. This text and ashtadhyayi.com read सृदरः; the eBharatiSampat 524 OCR shows मृदरः, unclear at the first letter. The 1911 Trichinopoly print and Ujjvaladatta both read हृदरः सर्पः.
+- **D40.** Uṇādi 5.42 (हन्तेर्युन्नाद्यन्तयोर्घत्वतत्वे): kept घातनो मारकः. Ujjvaladatta reads घतनो, and युन् being neither ञित् nor णित् gives no ground for vṛddhi; but eBharatiSampat 524 (पातनो, OCR) and the 1911 Trichinopoly print (घानो, OCR) both show the long ā, agreeing with this text and ashtadhyayi.com. Following D18 the printed Kaumudī reading stands; घतनः is recorded as the variant.
 
 ## Upstream issues (drdhaval2785/siddhantakaumudi, read 2026-11-20)
 - **I1.** #74 SK 325 दादेर्धातोर्धः → दादेर्धातोर्घः (8.2.32 substitutes घ). Fixed.
