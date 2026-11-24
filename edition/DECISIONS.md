@@ -81,6 +81,10 @@
 - **D38.** Uṇādi 5.9: emended the sūtra वुञ्लुठि… → वृञ्लुटि…. This text and ashtadhyayi.com read वुञ्; eBharatiSampat 524 is garbled at that word (घुज) but reads लुटि. The vṛtti's व्रियन्ते and लुट्यन्ते fix both roots, and the 1911 Trichinopoly print and Ujjvaladatta read वृञ्लुटि….
 - **D39.** Uṇādi 5.41 (कृदरादयश्च): emended सृदरः सर्पः → हृदरः सर्पः. This text and ashtadhyayi.com read सृदरः; the eBharatiSampat 524 OCR shows मृदरः, unclear at the first letter. The 1911 Trichinopoly print and Ujjvaladatta both read हृदरः सर्पः.
 - **D40.** Uṇādi 5.42 (हन्तेर्युन्नाद्यन्तयोर्घत्वतत्वे): kept घातनो मारकः. Ujjvaladatta reads घतनो, and युन् being neither ञित् nor णित् gives no ground for vṛddhi; but eBharatiSampat 524 (पातनो, OCR) and the 1911 Trichinopoly print (घानो, OCR) both show the long ā, agreeing with this text and ashtadhyayi.com. Following D18 the printed Kaumudī reading stands; घतनः is recorded as the variant.
+- **D41.** Uṇādi 4.22 (ऋजेश्च): emended ऋजिकः → ऋजीकः. This text and ashtadhyayi.com read ऋजिकः; eBharatiSampat 524 is garbled (अभीक:) but shows the long ī. ईकन् runs on from 4.16, and only 4.21 shortens, for ईष् alone.
+- **D42.** Uṇādi 4.112: emended शक्का → शक्वा and शक्करी → शक्वरी. This text and ashtadhyayi.com read क्क; the eBharatiSampat 524 OCR drops the conjunct (शका, शकरी). The sūtra teaches वनिप्, which gives शक्वा and शक्वरी (4.1.7), the attested form.
+- **D43.** Uṇādi 4.116: emended प्रेत्वरी → प्रेर्त्वरी, the feminine of the प्रेर्त्वा printed just before. eBharatiSampat 524 is garbled in both words (प्रेवा, प्रेवरी). Ujjvaladatta reads प्रेर्त्वरी.
+- **D44.** Uṇādi 4.116: kept प्रशत्वा, प्रशत्वरी. Ujjvaladatta reads प्रशत्त्वा, and शद् + तुट् + वन् would give त्त्व; but this text, ashtadhyayi.com and eBharatiSampat 524 agree on प्रशत्वा. The printed reading stands (D18); प्रशत्त्वा is recorded as the variant.
 
 ## Upstream issues (drdhaval2785/siddhantakaumudi, read 2026-11-20)
 - **I1.** #74 SK 325 दादेर्धातोर्धः → दादेर्धातोर्घः (8.2.32 substitutes घ). Fixed.
