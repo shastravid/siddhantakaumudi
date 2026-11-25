@@ -86,6 +86,9 @@
 - **D43.** Uṇādi 4.116: emended प्रेत्वरी → प्रेर्त्वरी, the feminine of the प्रेर्त्वा printed just before. eBharatiSampat 524 is garbled in both words (प्रेवा, प्रेवरी). Ujjvaladatta reads प्रेर्त्वरी.
 - **D44.** Uṇādi 4.116: kept प्रशत्वा, प्रशत्वरी. Ujjvaladatta reads प्रशत्त्वा, and शद् + तुट् + वन् would give त्त्व; but this text, ashtadhyayi.com and eBharatiSampat 524 agree on प्रशत्वा. The printed reading stands (D18); प्रशत्त्वा is recorded as the variant.
 - **D45.** Phiṭ 17: kept the sūtra आर्यस्य स्वाम्याख्या चेत्. Kielhorn (1866) and ashtadhyayi.com's Phiṭ text read अर्यस्य, and the vṛtti's appeal to यतोऽनावः (6.1.213) fits only a यत्-final stem like अर्य (3.1.103 अर्यः स्वामिवैश्ययोः); but eBharatiSampat 524 and the 1911 Trichinopoly print both read आर्यस्य, with this text. Following D18 the printed Kaumudī reading stands; अर्यस्य is recorded as the variant.
+- **D46.** Phiṭ 83: kept वाचादीनामुभावुदात्तौ. Kielhorn (1866), the Laghuśabdenduśekhara (वावादीनामुभाविति सूत्रे) and the Phiṭsūtravṛtti (example वाव) read वावादीनाम्; but eBharatiSampat 524, the 1911 Trichinopoly print and ashtadhyayi.com read वाचादीनाम्. The printed Kaumudī reading stands (D18); वावादीनाम् is recorded as the variant, and is the better reading of the Phiṭsūtra itself.
+- **D47.** Phiṭ 87: kept शेषमित्यादिद्विरुक्तस्य परमित्यर्थः, the reading of both 1911 prints and ashtadhyayi.com. Kielhorn reads शेषं नित्यादिद्विरुक्तस्य (8.1.4) परम् (8.1.2) इत्यर्थः, which gives the sense more plainly; recorded as the variant.
+- **D48.** Phiṭ 76: kept मत्य in the sūtra तिल्यशिक्यमत्यकार्ष्मर्य…, with both 1911 prints and ashtadhyayi.com. Kielhorn's sūtra has no मत्य; the Laghuśabdenduśekhara's rejection of मर्त्य concerns a different word. Recorded as a variant.
 
 ## Upstream issues (drdhaval2785/siddhantakaumudi, read 2026-11-20)
 - **I1.** #74 SK 325 दादेर्धातोर्धः → दादेर्धातोर्घः (8.2.32 substitutes घ). Fixed.
