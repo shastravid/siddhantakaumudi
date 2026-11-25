@@ -85,6 +85,7 @@
 - **D42.** Uṇādi 4.112: emended शक्का → शक्वा and शक्करी → शक्वरी. This text and ashtadhyayi.com read क्क; the eBharatiSampat 524 OCR drops the conjunct (शका, शकरी). The sūtra teaches वनिप्, which gives शक्वा and शक्वरी (4.1.7), the attested form.
 - **D43.** Uṇādi 4.116: emended प्रेत्वरी → प्रेर्त्वरी, the feminine of the प्रेर्त्वा printed just before. eBharatiSampat 524 is garbled in both words (प्रेवा, प्रेवरी). Ujjvaladatta reads प्रेर्त्वरी.
 - **D44.** Uṇādi 4.116: kept प्रशत्वा, प्रशत्वरी. Ujjvaladatta reads प्रशत्त्वा, and शद् + तुट् + वन् would give त्त्व; but this text, ashtadhyayi.com and eBharatiSampat 524 agree on प्रशत्वा. The printed reading stands (D18); प्रशत्त्वा is recorded as the variant.
+- **D45.** Phiṭ 17: kept the sūtra आर्यस्य स्वाम्याख्या चेत्. Kielhorn (1866) and ashtadhyayi.com's Phiṭ text read अर्यस्य, and the vṛtti's appeal to यतोऽनावः (6.1.213) fits only a यत्-final stem like अर्य (3.1.103 अर्यः स्वामिवैश्ययोः); but eBharatiSampat 524 and the 1911 Trichinopoly print both read आर्यस्य, with this text. Following D18 the printed Kaumudī reading stands; अर्यस्य is recorded as the variant.
 
 ## Upstream issues (drdhaval2785/siddhantakaumudi, read 2026-11-20)
 - **I1.** #74 SK 325 दादेर्धातोर्धः → दादेर्धातोर्घः (8.2.32 substitutes घ). Fixed.
